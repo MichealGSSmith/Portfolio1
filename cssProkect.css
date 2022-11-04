@@ -82,6 +82,31 @@ h1 , h2 {
     
 }
 
+.aisha {
+    margin-top: 5px;
+    
+}
+
+.aisha-btn {
+    margin: 10px 0;
+}
+
+
+.btn-1 {
+    color: #f7fff7;
+    background: #2f3061;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+    
+    
+}
+
+.btn-1:hover {
+ background: rgba(47, 48,97, 80%);
+    
+}
+
 .content-wrap {
     max-width: 900px;
     width: 85%;
