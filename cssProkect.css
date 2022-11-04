@@ -106,7 +106,21 @@ h1 , h2 {
  background: rgba(47, 48,97, 80%);
     
 }
+.inline {
+    text-align: center;
+}
 
+.aishaimage {
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+}
+
+.description {
+    font-size:large;
+}
 .content-wrap {
     max-width: 900px;
     width: 85%;
